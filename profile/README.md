@@ -1,17 +1,15 @@
-#### AstraNightly is the night kitchen: experiments made after hours, one file at a time. No dependencies, no build step, no framework: a page opens and everything is already there.
+# AstraNightly
 
-## 🌙 What's Cooking?
+The night kitchen. Real hours, fake cooking.
 
-- **[qvorr](https://astranightly.github.io/qvorr/)**: a mandelbulb raymarched live in WebGL2.
-- **[vlarn](https://astranightly.github.io/vlarn/)**: a subtractive synthesizer built from raw oscillators.
-- **[zvorn](https://astranightly.github.io/zvorn/)**: a chess engine that thinks in a worker.
+On the shelf right now:
 
-## 🌐 Where to Find Us
+- [qvorr](https://astranightly.github.io/qvorr/) is a fractal that wants to be held. Hold it.
+- [vlarn](https://astranightly.github.io/vlarn/) makes noise from pure arithmetic. Your neighbors will confirm.
+- [zvorn](https://astranightly.github.io/zvorn/) plays chess and pretends it isn't thinking about you.
 
-- **qvorr:** [astranightly.github.io/qvorr](https://astranightly.github.io/qvorr/)
-- **vlarn:** [astranightly.github.io/vlarn](https://astranightly.github.io/vlarn/)
-- **zvorn:** [astranightly.github.io/zvorn](https://astranightly.github.io/zvorn/)
+Everything here is one file. Not a constraint, a dare.
 
-## 🚀 Join the Journey
+Pickup line of the house: are you en passant? Because I did not see you coming and now my position is much worse.
 
-Three down: light, sound, thought. The kitchen stays open. More one-file contraptions come out of it now and then.
+More contraptions come out of this kitchen now and then. The light stays on.
