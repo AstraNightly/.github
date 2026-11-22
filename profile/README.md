@@ -8,8 +8,4 @@ On the shelf right now:
 - [vlarn](https://astranightly.github.io/vlarn/) makes noise from pure arithmetic. Your neighbors will confirm.
 - [zvorn](https://astranightly.github.io/zvorn/) plays chess and pretends it isn't thinking about you.
 
-Everything here is one file. Not a constraint, a dare.
-
 Pickup line of the house: are you en passant? Because I did not see you coming and now my position is much worse.
-
-More contraptions come out of this kitchen now and then. The light stays on.
